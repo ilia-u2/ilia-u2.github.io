@@ -1,4 +1,8 @@
-.adsfasdf { background-size:auto; background-size: 100% 100%; background-color:transparent !important;
-position:relative; overflow:inherit; white-space:normal; text-wrap:none
-	
-	}
+.adsfasdf {
+	background-size:auto;
+	background-size: 100% 100%;
+	background-color:transparent !important;
+	position:relative; overflow:inherit;
+	white-space:normal;
+	text-wrap:none;
+}
